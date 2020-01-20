@@ -4,6 +4,7 @@ its really simple to run this program
 		ii.cv2
 		iii.pickle
 		iv python
+		v numpy
 	2.to insert yout data
 	 i.save a photo in the image folder with the folder of the name                 of the person with no spaces.
 		ii.run train.py
