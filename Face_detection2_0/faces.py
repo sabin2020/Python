@@ -1,5 +1,6 @@
 import face_recognition
 import cv2
+import numpy as np
 import pickle
 
 # Get a reference to webcam 0 (the default one)
